@@ -1,8 +1,13 @@
 blinker>=1.9.0,<2.0
+cbor2==5.8.0
 click>=8.3.1,<9.0
 colorama>=0.4.6,<1.0
 Flask>=3.1.2,<4.0
 itsdangerous>=2.2.0,<3.0
 Jinja2>=3.1.6,<4.0
+luma.core==2.5.3
+luma.led-matrix==1.7.1
 MarkupSafe>=3.0.3,<4.0
+pillow==12.1.0
+smbus2==0.6.0
 Werkzeug>=3.1.5,<4.0
